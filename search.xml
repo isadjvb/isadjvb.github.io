@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title>hexo改编日记</title>
-      <link href="/2024/02/18/hexo%E6%94%B9%E7%BC%96%E6%97%A5%E8%AE%B0/"/>
-      <url>/2024/02/18/hexo%E6%94%B9%E7%BC%96%E6%97%A5%E8%AE%B0/</url>
+      <title>博客搭建</title>
+      <link href="/2024/02/23/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+      <url>/2024/02/23/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -17,11 +17,36 @@
     
     
     <entry>
+      <title>hexo改编日记</title>
+      <link href="/2024/02/18/hexo%E6%94%B9%E7%BC%96%E6%97%A5%E8%AE%B0/"/>
+      <url>/2024/02/18/hexo%E6%94%B9%E7%BC%96%E6%97%A5%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>#butterfly主题下载</p><p>#配置文件</p><p>#修改主题颜色</p><p>#修改</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第二十条</title>
       <link href="/2024/02/18/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1/"/>
       <url>/2024/02/18/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1/</url>
       
-        <content type="html"><![CDATA[<h1 id="正当防卫"><a href="#正当防卫" class="headerlink" title=" 正当防卫"></a><center> 正当防卫</center></h1><blockquote><p>法律是让坏人犯罪的成本更高，而不是让好人出手的代价更大</p></blockquote><img src="/2024/02/18/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1/2.png" alt="2" width="90%"><p>​这部电影讲述的是三个普通人、三个普通家庭，分别因为制止主任儿子校园霸凌同学、制止流氓公交车猥亵女孩、为保护家人制止村里恶霸作恶，却被判为故意伤害而经历“打官司”的事情。其展现了生活中的好笑辛酸、也伸张了不会缺席的公平正义。最后的结局是美好的，坏人恶霸被绳之以法，好人好事得到承认。</p><p>​一部好笑但又好哭的电影。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="电影简介"><a href="#电影简介" class="headerlink" title=" 电影简介"></a><center> 电影简介</center></h1><blockquote><p>法律是让坏人犯罪的成本更高，而不是让好人出手的代价更大</p></blockquote><img src="/2024/02/18/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1/2.png" alt="2" width="90%"><p>​这部电影讲述的是三个普通人、三个普通家庭，分别因为制止主任儿子校园霸凌同学、制止流氓公交车猥亵女孩、为保护家人制止村里恶霸作恶，却被判为故意伤害而经历“打官司”的事情。其展现了生活中的好笑辛酸、也伸张了不会缺席的公平正义。最后的结局是美好的，坏人恶霸被绳之以法，好人好事得到承认。</p><p>​一部好笑但又好哭的电影。</p>]]></content>
       
       
       <categories>
